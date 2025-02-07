@@ -1,0 +1,6 @@
+User_Data/
+venv/
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
