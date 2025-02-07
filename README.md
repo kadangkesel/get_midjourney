@@ -1,4 +1,5 @@
 # 🚀 MidJourney Discord Automation Bot
+![github-getmidjourney](https://github.com/user-attachments/assets/9226cf8c-38b7-4863-8432-4ef173f81958)
 
 ## 📖 Table of Contents
 
