@@ -115,6 +115,7 @@ def click_u_buttons_sequentially():
     if not latest_message:
         return
     
+    
     try:
         for i in range(1, 5):
             button = latest_message.find_element(By.XPATH, f".//button[contains(., 'U{i}')]")
